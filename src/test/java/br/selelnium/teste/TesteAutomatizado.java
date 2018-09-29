@@ -16,7 +16,7 @@ public class TesteAutomatizado {
 		WebDriver driver = new ChromeDriver();
 /*
 		driver.get("http://www.google.com.br");
-		
+		a
 		WebElement campoDeTexto = driver.findElement(By.name("q"));
 		campoDeTexto.sendKeys("javali");
 		campoDeTexto.submit();
